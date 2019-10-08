@@ -1,5 +1,5 @@
 #include "lib.h"
-#include <iosream>
+#include <iostream>
 
 int main(){
     std::cout << "build " << version() << std::endl;
